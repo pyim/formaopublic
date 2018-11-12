@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "fr-FR"
+title = "Formao"
+theme = "formao"
+# theme = "hugo-theme-learn"
+
+
+# Pour la fonctionnalité de recherche
+
+#[outputs]
+# home = [ "HTML", "RSS", "JSON"]
