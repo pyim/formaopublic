@@ -1,8 +1,7 @@
 ---
-title: "Tutorial 1"
+title: "Créer un site Wordpress"
 date: 2018-11-10T19:49:11+01:00
 draft: true
-url: /blog/new-url/
 ---
 
 Par Philipe YIM, le 24 Octobre 2018 Difficulté : Débutant Durée : 2 heures
