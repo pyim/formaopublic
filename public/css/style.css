@@ -24,7 +24,7 @@ header {
 }
 
 aside {
-    background: #e7e61c;
+
 }
 
 article {
@@ -87,4 +87,61 @@ footer {
         grid-row: 3 / 3;
     }
 
+}
+
+article ol li {
+    color: #2a7ed2
+}
+
+article ol {
+    background: aliceblue;
+    left: 3px;
+    border-radius: 2px;  
+    padding: 20px 10px 20px 40px;
+}
+
+
+
+aside nav ul {
+    padding: 0 0;
+ 
+}
+
+aside nav ul li {
+    list-style: none;
+    
+}
+
+aside a {
+    text-decoration: none;
+    color : #999;
+    font-weight: 400;
+}
+
+#TableOfContents {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 2em;
+    left: 0;
+    height: 100vh;
+    background-color:rgb(241, 241, 241);
+    width:auto;
+    height: auto;
+    border-radius: 10px;
+    padding: 10px 10px 10px 20px;
+    margin-top: 20px
+
+}
+
+
+#TableOfContents ul li {  
+    margin-bottom: 10px;
+}
+
+#TableOfContents ul li ul li {  
+    margin-left: 10px;
+}
+
+#TableOfContents li.active a {
+    color: red;
 }
