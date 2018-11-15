@@ -12,7 +12,6 @@ Vous allez besoin d'un site internet et vous ne savez pas comment en créer ? Vo
 Dans cet article vous allez apprendre à créer un site web avec Wordpress. C'est un guide ultime pour les débutants ! Vous allez apprendre étape par étape comment créer un site Wordpress comme un professionnel.
 
 
-
 Il existe plusieurs manières de créer un site Web, mais alors pourquoi est-ce que on utilise Wordpress ? Wordpress est un CMS Open source, donc gratuit, qui est simple et rapide à prendre en main. Vous pouvez créer facilement un blog, un site vitrine, un site e-commerce sans aucune notion de programmation. Oui ! C'est ça qui est génial avec Wordpress, c'est qu'il n'est pas nécessaire de connaître la programmation pour avoir son propre site web. C'est aussi un excellent choix pour mettre en place rapidement un site web.
 
 Il propose également des milliers de modules, de thèmes et WordPress possède une immense communauté avec des forums et des tutos gratuits. Plus de 30% des CMS utilisé dans le monde est un Wordpress. Dernier point, Wordpress est régulièrement mis à jour pour améliorer la sécurité et apporter de nouvelles fonctionnalités.
@@ -50,28 +49,28 @@ Bon avant de commencer, un peu des techniques, mais promis dans ce doil y en aur
 
 Note : Dans cet tutorial nous allons installer Xampp pour Windows, une documentation pour les utilisateurs de Mac est en cours de rédaction.
 
-### Télécharger Xampp :
-Télécharger et installer Xampp :
+### Télécharger et installer Xampp
 
 1. Allez sur le site Xampp
 + Choisissez la version suivant si vous êtes sous Windows, Linux ou Mac
 + Lancez l'installation.
 
-Installer Xampp :
+### Installer Xampp
 
-1. Lancez l'installation.
-+ Nous allons installer uniquement ce que nous avons besoin : Apache, MySQL, PHP, phpMyAdmin configurer xampp
+1. Lancez l'installation.<br>
+![installer Xampp](../static/01-installer-wordpress/01-installer-xampp.jpg)
+2. Nous allons installer uniquement ce que nous avons besoin : Apache, MySQL, PHP, phpMyAdmin configurer xampp
 + Sélectionnez votre dossier d'installation.
 + Sous Windows, autorisez le pare-feu. Parfeu Windows
 + Cliquez sur le bouton Finish.
 
-Démarrer Xampp :
+### Démarrer Xampp
 
 Choisissez la langue Anglaise ou Allemande.
 Démarrez le serveur Apache et MySQL. Demarrer Apache et MySQL
 Lancez Chrome ou Firefox, dans la barre d'url tapez l'adresse : localhost/dashboard , la page par défaut du serveur Xampp apparaît. Notre serveur fonctionne 🎉, on va maintenant installer Wordpress dans notre serveur. page-xampp
 
-Télécharger Wordpress :
+### L'outil Wordpress
 Allons sur le site de Wordpress.org et cliquez sur le bouton Télécharger Wordpress.
 Décompressez le fichier téléchargé, déplacer le dossier wordpress dans le dossier de votre serveur, dans notre exemple l'adresse est C:/xampp/htdocs. déplacer dossier wordpress dans xampp
 
