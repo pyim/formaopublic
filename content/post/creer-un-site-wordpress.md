@@ -1,7 +1,6 @@
 ---
 title: Créer un site Wordpress
 date: 2018-11-10 18:49:11 +0000
-draft: true
 
 ---
 Par Philipe YIM, le 24 Octobre 2018 Difficulté : Débutant Durée : 2 heures
@@ -50,29 +49,30 @@ Bon avant de commencer, un peu des techniques, mais promis dans ce doil y en aur
 
 Note : Dans cet tutorial nous allons installer Xampp pour Windows, une documentation pour les utilisateurs de Mac est en cours de rédaction.
 
-### Télécharger et installer Xampp
+### Télécharger Xampp :
+
+Télécharger et installer Xampp :
 
 1. Allez sur le site Xampp
 
 * Choisissez la version suivant si vous êtes sous Windows, Linux ou Mac
 * Lancez l'installation.
 
-### Installer Xampp
+Installer Xampp :
 
-1. Lancez l'installation.<br>
-![installer Xampp](../static/01-installer-wordpress/01-installer-xampp.jpg)
+1. Lancez l'installation. ![installer xampp](/uploads/01-installer-xampp.jpg "installer xampp")
 2. Nous allons installer uniquement ce que nous avons besoin : Apache, MySQL, PHP, phpMyAdmin configurer xampp
-+ Sélectionnez votre dossier d'installation.
-+ Sous Windows, autorisez le pare-feu. Parfeu Windows
-+ Cliquez sur le bouton Finish.
+3. Sélectionnez votre dossier d'installation.
+4. Sous Windows, autorisez le pare-feu. Parfeu Windows
+5. Cliquez sur le bouton Finish.
 
-### Démarrer Xampp
+Démarrer Xampp :
 
 Choisissez la langue Anglaise ou Allemande.
 Démarrez le serveur Apache et MySQL. Demarrer Apache et MySQL
 Lancez Chrome ou Firefox, dans la barre d'url tapez l'adresse : localhost/dashboard , la page par défaut du serveur Xampp apparaît. Notre serveur fonctionne 🎉, on va maintenant installer Wordpress dans notre serveur. page-xampp
 
-### L'outil Wordpress
+Télécharger Wordpress :
 Allons sur le site de Wordpress.org et cliquez sur le bouton Télécharger Wordpress.
 Décompressez le fichier téléchargé, déplacer le dossier wordpress dans le dossier de votre serveur, dans notre exemple l'adresse est C:/xampp/htdocs. déplacer dossier wordpress dans xampp
 
